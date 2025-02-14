@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="kagami_csindex_enabled=true" create_roles="user_admin" db_object_id="6d7fcb20dc1212104f34465061b06a4a" label="부서" max_length="40" name="cmn_department" type="collection">
+        <element label="cs7914526" max_length="40" name="x_58872_needit_cs7914526" type="string"/>
+    </element>
+</database>
